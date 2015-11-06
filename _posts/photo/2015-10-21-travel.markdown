@@ -1,0 +1,25 @@
+---
+layout: default
+modal-id: 8
+date: 2015-10-21
+img: travel.jpg
+alt: image-alt
+project-date: Spring 2015
+title: Travel
+caption: Travel
+category: photo
+---
+{% gallery folder="/photo/travel" %}
+    img1 ""
+    img2 ""
+    img3 ""
+    img4 ""
+    img5 ""
+    img6 ""
+    img7 ""
+    img8 ""
+    img9 ""
+    img10 ""
+    img11 ""
+{% endgallery %}
+

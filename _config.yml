@@ -1,0 +1,40 @@
+# Site settings
+title: Kina Smith
+email: kina@kinasmith.com
+#url: https://www.kinasmith.com
+url: localhost:4000
+
+description: "Portfolio site for Kina Smith."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: '#0C0D0D'
+  primary-light: '#0E1C1C'
+  compliment: '#2E2718'
+  compliment-light: '#5B5853'
+  link: '#BFB091'
+  hover: '#7B705A'
+  text: '#fff'
+  portfolio-hover: "37, 37, 37"
+
+# Footer settings
+footer: Kina Smith
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    icon: linkedin
+    url: https://www.linkedin.com/pub/kina-smith/8a/566/b92
+  - title: instagram
+    icon: instagram
+    url: https://instagram.com/kinasmith/
+  - title: github
+    icon: github
+    url: http://www.github.com/kinasmith
+  - title: instructables
+    icon: bicycle
+    url: http://www.instructables.com/member/kinasmith/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
