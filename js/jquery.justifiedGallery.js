@@ -1055,7 +1055,7 @@
           1024: '_b'  // used as else case because it is the last
         }
     */
-    rowHeight: 120,
+    rowHeight: 200,
     maxRowHeight: '200%', // negative value = no limits, number to express the value in pixels,
                           // '[0-9]+%' to express in percentage (e.g. 200% means that the row height
                           // can't exceed 2 * rowHeight)

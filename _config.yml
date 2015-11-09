@@ -37,4 +37,5 @@ social:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+# permalink: pretty
+permalink: /:categories/:title/index.html

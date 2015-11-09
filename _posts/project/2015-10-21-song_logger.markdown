@@ -32,14 +32,26 @@ My friend and UAF Masters student, Molly McDermott, worked with one a USGS crew 
 
 The study is taking place on the Seward Peninsula within a couple hundred miles of Nome.
 
--->Picture Gallery
+{% gallery folder="/project/songlogger" %}
+    P6210484 ""
+    P6300506 ""
+    P6170477 ""
+    P7170544 ""
+    OC_warbler ""
+{% endgallery %}
 
 
 ### What I built
 
 What I built was a redesign of the large and expensive data loggers the scientists currently use. It was solar powered, weighed less than 2 pounds (not including a mounting system), and the costs were less than $200. It was made with a customized digital voice recorder, a lavalier mic, and an array of sensors. This version had barometric pressure, humidity, temperature, and was capable of detecting wind speed and wind direction as well. All scheduling and weather data logging was done with an Arduino microcontroller.
 
--->Picture Gallery
+{% gallery folder="/project/songlogger" %}
+    IMG_20140420_155839 ""
+    IMG_20140420_140736 ""
+    IMG_20140420_134659 ""
+    IMG_20140419_210131 ""
+    IMG_20140419_204219 ""
+{% endgallery %}
 
 
 

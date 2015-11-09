@@ -37,6 +37,7 @@ module Jekyll
     def render(context)
         galleryAttributes = parse_attrs(@markup)
         rendered = '<div id="randomize" class = "swipeboxEx">'
+        # rendered = '<div id="randomize" class = "colorboxEx">'
             
         @nodelist.each do |node|
             lines = node.split("\n")

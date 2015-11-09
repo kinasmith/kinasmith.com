@@ -1,12 +1,26 @@
     <script src="/js/jquery.js"></script>
     <script src="/js/grayscale.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap.js"></script>
     <script src="/js/jquery.easing.min.js"></script>
-    <!--<script src="/js/jquery.colorbox.js"></script>-->
+    <!-- <script src="/js/jquery.colorbox.js"></script> -->
     <script src="/js/jquery.swipebox.min.js"></script>
     <script src="/js/jquery.justifiedGallery.js"></script>
 
     <script>
+    // $(".colorboxEx").each(function(i, el) {
+    //     $(el).justifiedGallery({
+    //         rel: 'gal' + i
+    //     }).on('jg.complete', function() {
+    //         $(this).find('a').colorbox({
+    //             maxWidth: '80%',
+    //             maxHeight: '80%',
+    //             opacity: 0.8,
+    //             transition: 'elastic',
+    //             current: ''
+    //         });
+    //     });
+    // });
+    
     $('.swipeboxEx').each(function(i, el) {
         $(el).justifiedGallery({
             rel: 'gal' + i
@@ -18,4 +32,5 @@
         randomize: true,
         rowHeight: 150,
     });
+    
     </script>

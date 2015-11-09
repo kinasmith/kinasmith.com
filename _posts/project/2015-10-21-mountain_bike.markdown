@@ -30,5 +30,4 @@ In 2013 I was working in a bike shop with two talented frame builders, [Corey Th
     img13 ""
     img14 ""
     img15 ""
-
 {% endgallery %}

@@ -70,8 +70,8 @@
 }
 .justified-gallery {
   width: 100%;
-  /*position: relative;*/
-  /*overflow: hidden;*/
+  position: relative;
+  overflow: hidden;
   padding-bottom: 200px;
 }
 .justified-gallery > a,

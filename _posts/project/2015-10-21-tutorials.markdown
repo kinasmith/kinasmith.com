@@ -13,6 +13,10 @@ category: project
 
 While working on my Masters degree at ITP and hosted a series of workshops on building breadboard synthesizers. 
 
-Tutorial 1: External Link
+[NAND Gate Synthesizer]({% post_url /tutorial/2015-11-08-quadNANDgate %}){:target="_blank"}
 
-Tutorial 2: External Link
+[Step Sequencer Synthesizer]({% post_url /tutorial/2015-11-08-sequencerWorkshop %}){:target="_blank"}
+
+[Low Power Breadboard Arduino]({% post_url /tutorial/2015-11-08-uAbreadboardArduino %}){:target="_blank"}
+
+
