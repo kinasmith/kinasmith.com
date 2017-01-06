@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kinasmith-com",
+  "private_key_id": "8e4c6a34ea019d8980105ffd4dc45d2884b79de5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtQ8cNiknDskr5\nnwgbV7XhvhgTnmX4ik6nE+5Ns7sIJND0TJYTOJfaVGO04mUUI/feK50AUImDq1Kh\nNAhxREprQdLJ8SNazW0Ubsw2dRddaL1w2IOlXgeiNskKqFlsbJysfkCahdFbCpBE\nW7+3GgBJMj/DeCj7X5W39gTMMk69FOZGzACzNXfT1qJgW27AXWNBhsXBnIimYGBw\nLrVzY2emORcdMpqSucXSwGRS03gotkYkH6SZ7LMLE3sUenUp59KyPXtmXSHpAXfa\nTTViA2VT1TVeQxsScMSe99tCn7RRuXgIUUhLXjsuftPCrUuzxhxKdCCZexxgm0nK\ntAf5KgaHAgMBAAECggEAVos3PuUnKS/CUWMFKpsqB0LrRcllx7pVxRCohHlU36F8\nGbqzb5BiETT7xJscv+2jXn7MYh7YQUNu94RE/0aMIXz0a9gdv7pCVOVu7XiZHhg2\nH8qWHyCTkYvp6X/jgsvRijtZy5Ux2FazbuGhJjU/lVAbF2jKl5zL7OJezRwHxlt6\nr9o1Lwz4XofiROAhXb9WbvjNtMdOTq+BBRmiwvgYSSe5DyhN+v1o/7y7OeDaJyh+\n15qd4GT0HWZXuccMXWCULmWkqLTmRD6uAlaXpvWA33SGXOD12N3/QsK3xamBhAD/\nTOe2Q/AhU+uAsBBWTJVC03e4bBKl2WliyHcgLc8WsQKBgQDT5bk6bnwYf3Rv1Zj2\nIw0oFiC/Q06+N9A/1z7lXoVCwaTH7T6ddC7kOFzKKBqVJU9SOkqxQi9SSJbstJRI\nVvAcLDYzdIQzej/HrMDyxdPasJrn8x2UEF2BJIdRvHuASwcJbxK4Bb+Djcad5Ddg\n9F6z7eljrqalffLBqm2VDCxw2QKBgQDRU6OFg4NAiXFe2qpF5Hsr4NZUFyUrya3+\n4wmbAfmPc40m6c8tWmOHetwDSJpvGX9aNAEnxzx2gWLbf4rI+l/8ShAsH/m076UG\nR7XNVtlawPcsedirveP/CUdn2rNymc9VcPQmvx0/t7R5sNAZRY7ft9sv4OHCeAaR\n+x0M9tWWXwKBgEGtTVkgD5SkRJm5Mbzwpk5LdYDywsBQmlp/Q75iKpnDXWieTy8M\naNBR6+i4v2yE8O4CpU4FvpcZarYZTnCRicChr3cJYUR3WrdwAyn8SSraXFkSUJOo\n8uJpSQv7iKf+GUNCSyIAnhiPZAViTAvgEk5gqls8MejPfeOrCGYPLOMZAoGBAJMp\nU9q3fHzQo61l2TNNz/InHUb9BprkLLj28HfTSZm6SM/ErGxcEYDbtPVyA3B74naN\n/Qn0HePKTq+12OI2c2iwwPHkgO7dU404uO1lU2VkJ+FSwCrtUu6nnVW8AVBeJc8R\nm/PphCyZf/3Veldp+Wn6ndPpK45GR4g1nFTS65HNAoGAfXOiUiXHeOuRnNsqMdjx\nBwBBTOuzX4M77kfO9WC7ZyzbHdQPZN8sdWg7vMWQaEFLvB7ULjylfsubfc8h2Uly\naPF9n5LQY8IVDfTmsEzLt4Dhrsq6wEokZTJTZb8jU1LQfS3f9skW2px4gqB+qgXF\nrIRVdmGsbg/z8AcXbbGHAwQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kinasmith-com@appspot.gserviceaccount.com",
+  "client_id": "103462890736077614303",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kinasmith-com%40appspot.gserviceaccount.com"
+}

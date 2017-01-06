@@ -1,6 +1,6 @@
 # Site settings
 title: Kina Smith
-email: kina@kinasmith.com
+email: info@kinasmith.com
 #url: https://www.kinasmith.com
 url: localhost:4000
 
@@ -39,3 +39,15 @@ social:
 markdown: kramdown
 # permalink: pretty
 permalink: /:categories/:title/index.html
+
+gems:
+  - jekyll-app-engine
+
+app_engine:
+  # Insert your configuration here or within _app.yaml
+  # You need to specify a runtime for App Engine
+  runtime: go
+  api_version: go1
+  default_expiration: 300s
+
+exclude: [CNAME, kinasmith-com-8e4c6a34ea01.json, LICENCE, README.md]

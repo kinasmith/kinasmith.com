@@ -1,6 +1,6 @@
 ---
-layout: tutorial
-date: 2015-10-21
+layout: page
+date: 2015-11-08
 title: How to build a quad gated oscillator NAND synthesizer
 name: quadnand
 category: tutorial
