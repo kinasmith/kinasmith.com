@@ -1,0 +1,4 @@
+desc 'Publishing to Google Apps Engine via TravisCL'
+task :deploy do
+  puts '-------I am a rakefile------'
+end
