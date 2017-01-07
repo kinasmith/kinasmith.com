@@ -1,11 +1,12 @@
+language: ruby
+rvm:
+  - 2.2
+
+before_install:
+- openssl aes-256-cbc -K $encrypted_409843d92368_key -iv $encrypted_409843d92368_iv
+  -in kinasmith-com-8e4c6a34ea01.json.enc -out kinasmith-com-8e4c6a34ea01.json -d
+install: true
 deploy:
   provider: gae
   keyfile: kinasmith-com-8e4c6a34ea01.json
   project: kinasmith-com
-before_install:
-- openssl aes-256-cbc -K $encrypted_409843d92368_key -iv $encrypted_409843d92368_iv
-  -in kinasmith-com-8e4c6a34ea01.json.enc -out kinasmith-com-8e4c6a34ea01.json -d
-
-language: ruby
-rvm:
-  - 2.2
