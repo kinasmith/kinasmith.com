@@ -1,8 +1,8 @@
 # Site settings
 title: Kina Smith
 email: info@kinasmith.com
-#url: https://www.kinasmith.com
-url: localhost:4000
+url: https://www.kinasmith.com
+# url: localhost:4000
 
 description: "Portfolio site for Kina Smith."
 
