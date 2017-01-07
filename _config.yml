@@ -50,4 +50,4 @@ app_engine:
   api_version: go1
   default_expiration: 300s
 
-exclude: [CNAME, kinasmith-com-8e4c6a34ea01.json, LICENCE, README.md]
+exclude: [CNAME, LICENCE, README.md]
